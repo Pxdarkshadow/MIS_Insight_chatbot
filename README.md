@@ -45,7 +45,7 @@ mis-chatbot/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/Pxdarkshadow/mis-chatbot.git
+git clone https://github.com/Pxdarkshadow/MIS_Insight_chatbot.git
 cd MIS_CHATBOT
 ````
 
