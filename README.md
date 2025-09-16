@@ -1,4 +1,3 @@
-```
 # 📊 MIS Report Strategy Chatbot
 
 A lightweight **offline desktop chatbot** that processes **MIS-generated PDF reports** and suggests at least **5 actionable strategies**.  
@@ -124,5 +123,3 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ## 📜 License
 
 MIT License – Free to use and modify.
-
-```
