@@ -65,8 +65,13 @@ pip install -r requirements.txt
 
 ### 4. Run the app
 
+(optional for local llm)
 ```bash
-python app.py
+ollama run llama3.1
+```
+
+```bash
+streamlit run app_name.py
 ```
 
 ---
