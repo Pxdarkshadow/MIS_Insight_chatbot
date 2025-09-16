@@ -21,7 +21,7 @@ Optionally, you can integrate **Ollama** for smarter, locally hosted NLP-based i
 
 ## 🛠️ Tech Stack
 - **Python** (core logic)
-- **Tkinter** (desktop UI)
+- **Streamlit** (UI Framework)
 - **PyMuPDF (fitz)** for PDF text extraction
 - **Rule-based strategy engine**
 - **[Optional] Ollama** for local NLP
