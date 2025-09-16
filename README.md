@@ -45,8 +45,8 @@ mis-chatbot/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/mis-chatbot.git
-cd mis-chatbot
+git clone https://github.com/Pxdarkshadow/mis-chatbot.git
+cd MIS_CHATBOT
 ````
 
 ### 2. Create virtual environment
