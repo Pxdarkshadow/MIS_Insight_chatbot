@@ -2,19 +2,44 @@
 .streamlit/secrets.toml
 .env
 .env.*
+*.key
+*.pem
+
+# ===== Streamlit =====
+.streamlit/cache/
 
 # ===== Python junk =====
 __pycache__/
-*.pyc
-*.pyo
+*.py[cod]
+*$py.class
+
+# ===== Build / distribution =====
+build/
+dist/
+*.egg-info/
+.eggs/
 
 # ===== Virtual environments =====
 venv/
 .venv/
+env/
+ENV/
+
+# ===== Test / coverage =====
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
 
 # ===== IDE/editor files =====
 .vscode/
+.idea/
 
 # ===== OS junk =====
 .DS_Store
 Thumbs.db
+
+# ===== Logs =====
+*.log
